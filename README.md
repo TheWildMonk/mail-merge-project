@@ -6,6 +6,6 @@ a letter for each recipient seperately. </br>
 
 ![mail box](image.jpg) <br /> 
 ### <u>**Project:**</u> <br />
-Pong Game Project<br />
+Mail Merge Project<br />
 100 Days of Code - The Complete Python Pro Bootcamp 2021 <br />
 Day 24 - Intermediate - Files, Directories and Paths
